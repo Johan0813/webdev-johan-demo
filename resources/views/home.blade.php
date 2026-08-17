@@ -51,4 +51,3 @@
             </p>
         </article>
     </section>
-@endsection

@@ -28,6 +28,7 @@
     <!-- ============================================
          SECCIÓN FEATURES (CARACTERÍSTICAS)
          ============================================ -->
+
 <section class="features" aria-label="Características del proyecto de Johan Mendez">
     <article class="card">
         <h2>Entorno local</h2>
@@ -38,6 +39,15 @@
 </section>
 
 
+=======
+    <section class="features" aria-label="Características del proyecto de Johan Mendez
+        <article class="card">
+            <h2>Entorno local</h2>
+            <p>
+                La aplicación se ejecuta en Laravel Herd con PHP 8.5.
+            </p>
+        </article>
+           </section>
 
         <article class="card">
             <h2>Buenas prácticas</h2>

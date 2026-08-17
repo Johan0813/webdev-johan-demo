@@ -28,7 +28,7 @@
     <!-- ============================================
          SECCIÓN FEATURES (CARACTERÍSTICAS)
          ============================================ -->
-    <section class="features" aria-label="Características del proyecto">
+    <section class="features" aria-label="Características del proyecto de Johan Mendez
         <article class="card">
             <h2>Entorno local</h2>
             <p>
